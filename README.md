@@ -6,3 +6,4 @@
 # Output is 0/72
 # for now is only executable format
 # not for sale
+# set malware in Program.cs in line 26
